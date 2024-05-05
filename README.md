@@ -1,4 +1,4 @@
-# Chatty (Bukkit plugin)
+# Chatty (Bukkit plugin)a
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/Brikster/Chatty)](https://github.com/Brikster/Chatty/releases/latest)
 [![GitHub All Releases](https://img.shields.io/github/downloads/Brikster/Chatty/total)](https://github.com/Brikster/Chatty/releases)
